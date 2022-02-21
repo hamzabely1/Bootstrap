@@ -1,0 +1,56 @@
+.email{
+    height: 600px;
+    width: 800px;
+    
+    padding: 8%;
+    background-color: orange;
+    display: flex;
+    
+}
+body{
+    background-color: orange;
+}
+.flex{
+    display: flex;
+    
+}
+.page3{
+    display: flex;
+    justify-content: center;
+    padding: 3%;
+}
+.page{
+
+margin: 5%;
+height: 800px;
+width: 800px;
+background-color: white;
+justify-content: center;
+border-radius: 15px;
+}
+a{
+    text-decoration: none;
+    
+}
+@media screen and (max-width: 700px) {
+    #hamza{
+        width:0px;
+        height: 0px;
+    }
+
+}
+.il{
+    padding: 5%;
+
+}
+.testo{
+    border-radius: 15px;
+}
+.buton{
+    background-color: black;
+    border-radius: 15px;
+    color: white;
+}
+
+
+
